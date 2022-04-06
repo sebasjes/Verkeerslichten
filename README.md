@@ -1,4 +1,4 @@
-# Verkeerslichten
-School opdracht
+# Verkeerslichten - HAN EPD
+Opdracht EPD han - Arduino verkeerssituatie
 
-Het maken van een verkeers situatie met meerder stoplichten, een slagboom en timer
+Het maken van een verkeers situatie met meerdere stoplichten, een slagboom en timer
